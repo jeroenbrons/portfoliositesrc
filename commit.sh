@@ -1,3 +1,3 @@
 git add -Av .
-git commit
+git commit -m 'edits'
 git push -u origin master
